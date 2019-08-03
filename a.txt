@@ -1,7 +1,4 @@
 first line
 <<<<<<< HEAD
 2222
-333
-=======
-jjjjj
->>>>>>> dev
+hhhhhhhhhhhhh
