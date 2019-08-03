@@ -1,8 +1,1 @@
-first line
-<<<<<<< HEAD
-2222
-333
-=======
-jjjjj
->>>>>>> dev
-lll by lvyonghui
+1111111
